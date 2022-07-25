@@ -50,7 +50,7 @@
 # c = int(random.randint(0,100))
 
 # if a != 0:
-#     first_part = (str(a) + "x^" + str(k) + " + ")
+#     first_part = (str(a) + "x**" + str(k) + " + ")
 # else:
 #     first_part = (str())
 
