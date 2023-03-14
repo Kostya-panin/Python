@@ -1,0 +1,2 @@
+import Collector
+Collector.programstart()
